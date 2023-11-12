@@ -1,5 +1,5 @@
 {
-  "name": "source",
+  "name": "peterabraham",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "peterabraham"
+  ],
+  "author": {
+		"name": "Peter Abraham",
+		"url": "https://peterabraham.com"
+	},
   "license": "ISC",
+  "bin": "index.js",
   "dependencies": {
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
